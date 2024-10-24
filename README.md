@@ -22,15 +22,14 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
 7. How does education level relate to KPI performance?
 
 #### Employee Ratings
-1. What is the average employee rating within the company?
-2. How do gender and department correlate with employee ratings?
-3. Which department has the lowest average rating?
-4. What percentage of low ratings (1 and 2 stars) come from specific departments?
+8. What is the average employee rating within the company?
+9. How do gender and department correlate with employee ratings?
+10. Which department has the lowest average rating?
+11. What percentage of low ratings (1 and 2 stars) come from specific departments?
 
 #### Recruitment Channels
-1. How many employees were hired through different recruitment channels?
-2. What is the distribution of education levels across various recruitment sources? 
-3. Are there any issues with "unknown" education levels affecting employee ratings?
+12. How many employees were hired through different recruitment channels?
+13. What is the distribution of education levels across various recruitment sources? 
 
 ---
 
