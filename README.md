@@ -42,10 +42,11 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ---
 
-Data cleaning
+### Data cleaning 
 
-After profiling, cleaning, and transforming the dataset, I analyzed employee demographics, including gender distribution, education levels, awards, age, departments, and KPI achievement rates. The analysis focuses on the following questions:
+- The dataset contained duplicates and entry errors. I created a backup table for future reference, then cleaned the data by removing duplicates and errors in a new staging table. This was transformed into the main table for analysis. 
 
+--> The table was reduced from 17,417 rows to 17,413 by removing 2 duplicate rows and 2 entry errors for employee ID 64573.
 
 ## Key Findings
 
