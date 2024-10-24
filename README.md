@@ -2,7 +2,7 @@
 
 ## Overview
 
-This HR analytics project addresses three key issues: KPI performance, employee satisfaction ratings, and recruitment channel effectiveness.
+This HR analytics project tackles three key issues: KPI performance, employee ratings, and recruitment channels. It provides insights and recommendations to help the HR department identify critical challenges, develop strategies to enhance KPI performance, improve employee ratings, and optimize recruitment processes.
 
 ## Data Source
 
