@@ -2,7 +2,7 @@
 
 ## Overview
 
-This HR analytics project tackles three key issues: KPI performance, employee ratings, and recruitment channels. It provides insights and recommendations to help the HR department identify critical challenges, develop strategies to enhance KPI performance, improve employee ratings, and optimize recruitment processes.
+This project addresses three main areas: KPI performance, employee ratings, and recruitment channels. It offers insights and actionable recommendations to assist the HR department in identifying key challenges and developing strategies to enhance KPI performance, boost employee ratings, and optimize recruitment processes.
 
 ## Data Source
 
@@ -10,7 +10,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ## List of Business Problems
 
-After profiling, cleaning, and transforming the dataset, I analyzed employee demographics, including gender distribution, education levels, awards, age, departments, and KPI achievement rates. The analysis focuses on the following questions:
+#### Employee Distribution by Gender, Department, Age
 
 #### KPI Performance
 1. What is the overall KPI achievement rate across the organization?
@@ -41,6 +41,11 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
 4. **Document Findings:** Record key findings and formulate actionable recommendations.
 
 ---
+
+Data cleaning
+
+After profiling, cleaning, and transforming the dataset, I analyzed employee demographics, including gender distribution, education levels, awards, age, departments, and KPI achievement rates. The analysis focuses on the following questions:
+
 
 ## Key Findings
 
