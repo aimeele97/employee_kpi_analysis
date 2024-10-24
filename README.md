@@ -30,7 +30,7 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
 ## Analysis Process
 
 1. **Identify Business Problems:** Define key business challenges and objectives.
-2. **Data Cleaning:** Profile the data to identify issues, then transform the dataset for analysis.
+2. **Data Cleaning:** Profile the data to identify issues, then clean and transform the dataset for analysis.
 3. **Data Analysis:** Analyze the data to address the identified problems and derive insights.
 4. **Document Findings:** Record key findings and formulate actionable recommendations.
 
@@ -38,39 +38,45 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
 
 ## Key Findings
 
-### 1. Gender Distribution
-**Finding:** Male employees comprise over 50% of the workforce across all departments, with significant female representation in Procurement, HR, and Operations.  
+### 1. Employee Distribution by Gender, Department, Age
+**Finding:** Males represent approximately 91% of the total workforce, while females account for only 9%. Sales and Marketing department has the highest number of employees, comprising around 31% of the total workforce. 
+Employee ages range from 20 to 60 years, with an average age of 34. The age distribution is normally distributed across each department,suggesting a balanced age demographic that may enhance team dynamics and knowledge sharing.
 **Recommendation:** Launch initiatives to attract and retain female talent in underrepresented areas through targeted recruitment and mentorship.
 
-### 2. KPI Performance and Awards
-**Finding:** R&D has the highest KPI achievement (45%) but only 1% of awards won, while Sales & Marketing has lower KPI achievement but the most awards.  
-**Recommendation:** Align award criteria with KPI performance and enhance recognition of achievements in R&D.
+### 2. KPI Analysis Summary
+**KPI Achievement Rate**
+   - **Finding:** Only 36% of employees achieve KPIs above 80%, highlighting a need for improved performance management and support.
+   - **Recommendation:** Implement targeted performance improvement plans and allocate additional resources to assist employees in meeting their KPIs.
 
-### 3. Impact of Training
-**Finding:** Training sessions vary in effectiveness regarding KPI achievement.  
-**Recommendation:** Identify and promote successful training programs to improve overall employee performance.
+**Correlation Between KPIs and Awards**
+   - **Finding:** Employees can receive awards without meeting KPI targets; however, those who do meet KPIs win significantly more awards.
+   - **Recommendation:** Adjust award criteria to align more closely with KPI achievement to encourage high performance.
 
-### 4. Length of Service and Performance
-**Finding:** Employees with 1 to 10 years of service achieve KPIs at rates of 30% to 40%, with performance declining thereafter.  
-**Recommendation:** Enhance career development for long-tenured employees, including refresher training and mentorship.
+**Departmental KPI Performance**
+   - **Finding:** R&D has the highest KPI achievement rate at 45% but only 1% of total awards, while Sales & Marketing has the lowest KPI performance but the highest awards.
+   - **Recommendation:** Reevaluate award distribution practices to ensure recognition corresponds with KPI performance.
 
-### 5. Age Distribution
-**Finding:** Employees aged 27 to 37 perform best on KPIs.  
-**Recommendation:** Implement professional development programs for younger employees and engage older employees to improve performance.
+**Impact of Training on KPIs**
+   - **Finding:** Training sessions have varying effects on KPI achievement, with some leading to notable improvements.
+   - **Recommendation:** Identify and promote the most effective training programs, ensuring accessibility for all employees.
 
-### 6. Education Correlation
-**Finding:** Employees with bachelor’s degrees have the highest KPI performance.  
-**Recommendation:** Expand educational support initiatives, such as tuition reimbursement, to encourage further education.
+**Length of Service and KPI Performance**
+   - **Finding:** Employees with 1 to 10 years of service achieve KPIs at rates of 30% to 40%, while performance declines after 10 years.
+   - **Recommendation:** Introduce career development initiatives for long-tenured employees to enhance engagement and performance.
 
-### 7. Company Ratings
+**Age and KPI Achievement**
+   - **Finding:** Employees aged 27 to 37 perform best in terms of KPI achievement.
+   - **Recommendation:** Develop targeted training and support programs for both younger and older employees to bridge performance gaps.
+
+**Education and KPI Performance**
+   - **Finding:** Employees with a bachelor's degree achieve 65% KPI performance, whereas those with a master's degree achieve only 29%.
+   - **Recommendation:** Explore other factors influencing performance, such as practical experience, and consider providing role-specific training to boost effectiveness.
+
+### 3. Company Ratings
 **Finding:** The average employee rating is 3.35, with 18% rating their experience as 1 or 2, indicating dissatisfaction, particularly in Sales and Marketing.  
 **Recommendation:** Conduct surveys to gather feedback on dissatisfaction and implement changes to improve job satisfaction.
 
-### 8. Recruitment Effectiveness
-**Finding:** Over half of employees were hired through various channels, but only 1.8% through referrals.  
-**Recommendation:** Revamp the referral program and consider partnerships with recruitment agencies to enhance sourcing.
-
-### 9. Education and Ratings
+### 4. Recruitment Effectiveness
 **Finding:** Employees with "unknown" education levels received the lowest ratings, indicating potential record-keeping issues.  
 **Recommendation:** Investigate the reasons for "unknown" education levels and improve data collection processes.
 
