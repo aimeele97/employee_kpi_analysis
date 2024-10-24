@@ -275,3 +275,9 @@ ORDER BY num_emp DESC;
 /* ============================= */
 /*          KEY FINDINGS         */
 /* ============================= */
+
+-- Males make up 91% of the workforce, highlighting a gender disparity, while the Sales and Marketing department has the largest employee count, indicating a need for targeted recruitment initiatives to attract female talent.
+
+-- Only 36% of employees achieve KPIs above 80%, suggesting the necessity for enhanced performance management, while training programs have varying impacts on KPI achievement, emphasizing the importance of identifying effective training strategies.
+
+-- Recruitment is primarily through "other" channels and direct sourcing, with referrals being minimal; this underscores the need to optimize recruitment processes and strengthen the employee referral program to improve overall hiring quality.
