@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project addresses three main areas: KPI performance, employee ratings, and recruitment channels. It offers insights and actionable recommendations to assist the HR department in identifying key challenges and developing strategies to enhance KPI performance, boost employee ratings, and optimize recruitment processes.
+This project addresses 4 main main areas: Employee diversity, KPI performance, employee ratings, and recruitment channels. It offers insights and actionable recommendations to assist the HR department in identifying key challenges and developing strategies to enhance KPI performance, boost employee ratings, and optimize recruitment processes.
 
 ## Data Source
 
@@ -10,7 +10,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ## List of Business Problems
 
-#### Employee Distribution by Gender, Department, Age
+#### Diversity by Gender, Department, Age
 
 #### KPI Performance
 1. What is the overall KPI achievement rate across the organization?
@@ -52,7 +52,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ### Key Findings
 
-#### Employee Overview
+#### Employee Diversity
 - The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
 - Males dominate each department, with females mainly in Procurement, HR, and Operations.
 - Average age varies by department, indicating demographic diversity.
