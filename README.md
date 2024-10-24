@@ -69,8 +69,8 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
    - **Recommendation:** Identify and promote the most effective training programs, ensuring accessibility for all employees.
 
 **Length of Service and KPI Performance**
-   - **Finding:** Employees with 1 to 10 years of service achieve KPIs at rates of 30% to 40%, while performance declines after 10 years.
-   - **Recommendation:** Introduce career development initiatives for long-tenured employees to enhance engagement and performance.
+   - **Finding:** Employees with 1 to 10 years of service achieve KPIs at rates of 30% to 40%, while performance slightly declines after 10 years.
+   - **Recommendation:** Provide ongoing training sessions to help long-tenured employees update their skills and adapt to new technologies or processes.
 
 **Age and KPI Achievement**
    - **Finding:** Employees aged 27 to 37 perform best in terms of KPI achievement.
@@ -81,12 +81,13 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
    - **Recommendation:** Explore other factors influencing performance, such as practical experience, and consider providing role-specific training to boost effectiveness.
 
 ### 3. Company Ratings
-   - **Finding:** The average employee rating is 3.35, with 18% rating their experience as 1 or 2, indicating dissatisfaction, particularly in Sales and Marketing.  
+   - **Finding:** The average employee rating is 3.35 last year, with 18% low rating their experience (1 and 2) significantly in Sales and Marketing department. 
    - **Recommendation:** Conduct surveys to gather feedback on dissatisfaction and implement changes to improve job satisfaction.
 
 ### 4. Recruitment Effectiveness
-   - **Finding:** Employees with "unknown" education levels received the lowest ratings, indicating potential record-keeping issues.  
-   - **Recommendation:** Investigate the reasons for "unknown" education levels and improve data collection processes.
+   - **Finding:**
+      -"Other" recruitment channels include job boards and company careers pages, while "source" channels involve online postings and direct outreach. Over 50% of hires come from "other" channels, 42% from direct sourcing, and only 1.8% from referrals, with balanced education levels across channels.
+   - **Recommendation:** To improve recruitment quality, optimize sourcing strategies and provide training for hiring managers to better leverage the employee referral program.
 
 ---
 
