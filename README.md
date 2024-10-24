@@ -46,8 +46,9 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
 ## Key Findings
 
 ### 1. Employee Distribution by Gender, Department, Age
-   - **Finding:** Males represent approximately 91% of the total workforce, while females account for only 9%. Sales and Marketing department has the highest number of employees, comprising around 31% of the total workforce. 
-Employee ages range from 20 to 60 years, with an average age of 34. The age distribution is normally distributed across each department,suggesting a balanced age demographic that may enhance team dynamics and knowledge sharing.
+   - **Finding:**
+      - Males represent approximately 91% of the total workforce, while females account for only 9%. Sales and Marketing department has the highest number of employees, comprising around 31% of the total workforce.
+      - Employee ages range from 20 to 60 years, with an average age of 34. The ages are normally distributed across each department that help enhance team dynamics and knowledge sharing.
    - **Recommendation:** Launch initiatives to attract and retain female talent in underrepresented areas through targeted recruitment and mentorship.
 
 ### 2. KPI Analysis Summary
