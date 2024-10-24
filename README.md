@@ -75,7 +75,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ---
 
-### Recommendations
+### Recommendation
 
 #### Enhance Gender Diversity
 - Ensure that interview panels include members of different genders to minimize bias and provide a more balanced perspective.
