@@ -65,7 +65,7 @@ DROP TABLE dbo.employee_performance_staging;
 --> Now the data is ready for analysis. 
 
 /* ============================= */
-/*         Overview             */
+/*    Employee Overview          */
 /* ============================= */
 
 -- Analyzing employee distribution across departments.
