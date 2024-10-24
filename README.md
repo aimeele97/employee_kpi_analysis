@@ -8,22 +8,31 @@ This HR analytics project addresses three key issues: KPI performance, employee 
 
 The data for this analysis is sourced from Kaggle: [Employee Performance Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics).
 
-## List of Problems
+## List of Business Problems
 
 After profiling, cleaning, and transforming the dataset, I analyzed employee demographics, including gender distribution, education levels, awards, age, departments, and KPI achievement rates. The analysis focuses on the following questions:
 
-### 1. KPI Analysis
-- How do employees perform regarding KPIs and awards won?
-- What impact do training sessions have on KPI achievement?
-- How does length of service correlate with KPI performance?
-- Which age groups perform best on KPIs?
-- What is the relationship between education level and KPI achievement?
+#### KPI Performance
+1. What is the total number of employees and unique employees in the dataset?
+2. Are there any duplicate records that need to be addressed?
+3. What is the overall KPI achievement rate across the organization?
+4. How do KPIs correlate with awards won by employees?
+5. Which departments have the highest and lowest KPI performance?
+6. What is the impact of training on KPI achievement?
+7. How does the length of service affect KPI performance?
+8. Which age groups achieve the highest KPIs?
+9. How does education level relate to KPI performance?
 
-### 2. Company Ratings
-- How do employees rate the company overall and by department and gender?
+#### Employee Ratings
+1. What is the average employee rating within the company?
+2. How do gender and department correlate with employee ratings?
+3. Which department has the lowest average rating?
+4. What percentage of low ratings (1 and 2 stars) come from specific departments?
 
-### 3. Recruitment Strategies
-- What is the education distribution by recruitment channel and department?
+#### Recruitment Channels
+1. How many employees were hired through different recruitment channels?
+2. What is the distribution of education levels across various recruitment sources? 
+3. Are there any issues with "unknown" education levels affecting employee ratings?
 
 ---
 
@@ -73,12 +82,12 @@ Employee ages range from 20 to 60 years, with an average age of 34. The age dist
    - **Recommendation:** Explore other factors influencing performance, such as practical experience, and consider providing role-specific training to boost effectiveness.
 
 ### 3. Company Ratings
-**Finding:** The average employee rating is 3.35, with 18% rating their experience as 1 or 2, indicating dissatisfaction, particularly in Sales and Marketing.  
-**Recommendation:** Conduct surveys to gather feedback on dissatisfaction and implement changes to improve job satisfaction.
+   - **Finding:** The average employee rating is 3.35, with 18% rating their experience as 1 or 2, indicating dissatisfaction, particularly in Sales and Marketing.  
+   - **Recommendation:** Conduct surveys to gather feedback on dissatisfaction and implement changes to improve job satisfaction.
 
 ### 4. Recruitment Effectiveness
-**Finding:** Employees with "unknown" education levels received the lowest ratings, indicating potential record-keeping issues.  
-**Recommendation:** Investigate the reasons for "unknown" education levels and improve data collection processes.
+   - **Finding:** Employees with "unknown" education levels received the lowest ratings, indicating potential record-keeping issues.  
+   - **Recommendation:** Investigate the reasons for "unknown" education levels and improve data collection processes.
 
 ---
 
