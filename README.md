@@ -13,15 +13,13 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 After profiling, cleaning, and transforming the dataset, I analyzed employee demographics, including gender distribution, education levels, awards, age, departments, and KPI achievement rates. The analysis focuses on the following questions:
 
 #### KPI Performance
-1. What is the total number of employees and unique employees in the dataset?
-2. Are there any duplicate records that need to be addressed?
-3. What is the overall KPI achievement rate across the organization?
-4. How do KPIs correlate with awards won by employees?
-5. Which departments have the highest and lowest KPI performance?
-6. What is the impact of training on KPI achievement?
-7. How does the length of service affect KPI performance?
-8. Which age groups achieve the highest KPIs?
-9. How does education level relate to KPI performance?
+1. What is the overall KPI achievement rate across the organization?
+2. How do KPIs correlate with awards won by employees?
+3. Which departments have the highest and lowest KPI performance?
+4. What is the impact of training on KPI achievement?
+5. How does the length of service affect KPI performance?
+6. Which age groups achieve the highest KPIs?
+7. How does education level relate to KPI performance?
 
 #### Employee Ratings
 1. What is the average employee rating within the company?
