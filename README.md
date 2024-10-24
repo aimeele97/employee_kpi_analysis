@@ -86,7 +86,7 @@ After profiling, cleaning, and transforming the dataset, I analyzed employee dem
 
 ### 4. Recruitment Effectiveness
    - **Finding:**
-      The company recruited visa 3 main channels: "Other" recruitment channels include job boards and company careers pages, "source" channels involve online postings and direct outreach, and referals fro current employees. Over 50% of hires come from "other" channels, 42% from direct sourcing, and only 1.8% from referrals, with balanced education levels across channels.
+      The company recruited via 3 main channels: "Other" recruitment channels include job boards and company careers pages, "source" channels involve online postings and direct outreach, and referals fro current employees. Over 50% of hires come from "other" channels, 42% from direct sourcing, and only 1.8% from referrals, with balanced education levels across channels.
    - **Recommendation:** To improve recruitment quality, optimize sourcing strategies and provide training for hiring managers to better leverage the employee referral program.
 
 ---
