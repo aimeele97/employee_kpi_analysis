@@ -50,14 +50,14 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ---
 
-## Key Findings
+### Key Findings
 
-### Employee Overview
+#### Employee Overview
 - The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
 - Males dominate each department, with females mainly in Procurement, HR, and Operations.
 - Average age varies by department, indicating demographic diversity.
 
-### KPI Analysis
+#### KPI Analysis
 - Only 36% of employees meet KPIs above 80%.
 - Employees who meet KPIs win more awards.
 - R&D has the highest KPI rate at 45%, but only 1% of awards are given to this department.
@@ -66,21 +66,21 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 - Employees aged 27-37 perform best on KPIs.
 - Bachelor's degree holders achieve 65% KPI performance, while master's holders achieve only 29%.
 
-### Employee Ratings Last Year
+#### Employee Ratings Last Year
 - Average employee rating is 3.35; 18% rated low (1-2 stars), particularly in Sales and Marketing.
 
-### Recruitment Channels
+#### Recruitment Channels
 - Over 50% of hires come from "other" channels; only 1.8% from referrals.
 - Education levels are balanced across channels.
 
 ---
 
-## Recommendations
+### Recommendations
 
-### Enhance Gender Diversity
+#### Enhance Gender Diversity
 - Ensure that interview panels include members of different genders to minimize bias and provide a more balanced perspective.
 
-### Strengthen Performance Management
+#### Strengthen Performance Management
 - Implement performance improvement plans.
 - Align award criteria with KPI achievement.
 - Re-evaluate award distribution practices.
@@ -89,10 +89,10 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 - Develop support programs for younger and older employees.
 - Investigate performance factors and offer role-specific training.
 
-### Address Employee Satisfaction
+#### Address Employee Satisfaction
 - Conduct surveys to gather feedback and improve job satisfaction.
 
-### Optimize Recruitment Processes
+#### Optimize Recruitment Processes
 - Optimize sourcing strategies and enhance the referral program.
 
 ---
