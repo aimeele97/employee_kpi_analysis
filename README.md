@@ -8,7 +8,7 @@ This project addresses 4 main main areas: Employee diversity, KPI performance, e
 
 The data for this analysis is sourced from Kaggle: [Employee Performance Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics).
 
-## List of Business Problems
+## Business Problem
 
 #### Diversity by Gender, Department, Age
 
