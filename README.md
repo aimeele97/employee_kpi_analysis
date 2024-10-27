@@ -106,7 +106,8 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ## Conclusion
 
-- This project offers a detailed analysis of employee performance and satisfaction.
+- This project offers a detailed analysis of employee's diversity, performance, satisfaction, and recruitment sources.
+
 - Key strategies for improvement include:
   - **Promoting Gender Diversity:** Foster a more inclusive workplace.
   - **Strengthening Performance Management:** Align awards with KPI achievement and provide ongoing training.
