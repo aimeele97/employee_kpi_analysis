@@ -8,28 +8,35 @@ This project addresses 4 main main areas: Employee diversity, KPI performance, e
 
 The data for this analysis is sourced from Kaggle: [Employee Performance Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics).
 
-## Business Problem
+## Questions Addressed
+### Data Cleaning
+1. What is the total number of rows and unique employees?
+2. How can we identify duplicate records?
+3. What steps are taken for data cleaning?
 
-#### Diversity by Gender, Department, Age
+### Employee Overview
+4. What is the employee distribution across departments?
+5. How is gender distributed across departments?
+6. What is the average age of employees in each department?
 
-#### KPI Performance
-1. What is the overall KPI achievement rate across the organization?
-2. How do KPIs correlate with awards won by employees?
-3. Which departments have the highest and lowest KPI performance?
-4. What is the impact of training on KPI achievement?
-5. How does the length of service affect KPI performance?
-6. Which age groups achieve the highest KPIs?
-7. How does education level relate to KPI performance?
+### KPIs Analysis
+7. What is the correlation between KPIs met (>80%) and awards won?
+8. How do KPI performances and awards differ by department?
+9. What is the impact of training on KPI performance?
+10. How does length of service correlate with KPI performance?
+11. How does age affect KPI and awards performance?
+12. What is the relationship between education and KPI achievement?
 
-#### Employee Ratings
-8. What is the average employee rating within the company?
-9. How do gender and department correlate with employee ratings?
-10. Which department has the lowest average rating?
-11. What percentage of low ratings (1 and 2 stars) come from specific departments?
+### Company Ratings
+13. How did employees rate the company last year?
+14. How do gender and department correlate with ratings?
+15. What is the rating distribution of each department?
+16. How does education correlate with ratings?
+17. What is the relationship between education level and ratings?
 
-#### Recruitment Channels
-12. How many employees were hired through different recruitment channels?
-13. What is the distribution of education levels across various recruitment sources? 
+### Company Recruitment
+18. How many employees were hired through different recruitment channels?
+19. What is the education distribution from different hiring sources?
 
 ---
 
