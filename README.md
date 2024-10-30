@@ -79,7 +79,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 ---
 
-### Recommendation
+### Recommendations
 
 #### Employee Diversity
 - **Targeted Recruitment:** Focus on attracting more female candidates in Sales and Marketing to balance gender representation.
