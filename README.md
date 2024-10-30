@@ -65,7 +65,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 
 #### KPI Analysis
 - Only 36% of employees achieve KPIs above 80%, indicating a concerning level of performance among staff.
-- There is no correlation between award wins and employees meeting KPIs; notably, employees who do not meet KPIs can still win awards. For instance, while the R&D department has the highest KPI achievement rate at 45%, it only receives 1% of the awards.
+- There is no correlation between award wins and employees meeting KPIs. Employees who do not meet KPIs can still receive awards, while those who do may have lower win rates. For example, the R&D department has a KPI achievement rate of 45% but receives only 1% of the awards.
 - The employees that attending training for the first time see a marked improvement, with half of them passing their KPIs. This success rate increases with additional training sessions.
 - KPI achievement is significantly higher among employees with bachelor's degrees, reaching 65%, compared to only 29% for master's degree holders. This disparity suggests that the level of education may not be directly related to KPI achievement among employees.
 
