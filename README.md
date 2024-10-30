@@ -60,7 +60,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 ### Key Findings
 
 #### Employee Diversity
-- TheThe department that has the most employees is Sales and Marketing, which contribute 31% total company's workforce. The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
+- The department that has the most employees is Sales and Marketing, which contribute 31% total company's workforce. The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
 - Males dominate each department, with females mainly in Procurement, HR, and Operations.
 - Average age varies by department, indicating demographic diversity.
 
