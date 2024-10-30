@@ -60,61 +60,49 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 ### Key Findings
 
 #### Employee Diversity
-- The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
+- TheThe department that has the most employees is Sales and Marketing, which contribute 31% total company's workforce. The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
 - Males dominate each department, with females mainly in Procurement, HR, and Operations.
 - Average age varies by department, indicating demographic diversity.
 
 #### KPI Analysis
-- Only 36% of employees meet KPIs above 80%.
-- Employees who meet KPIs win more awards.
-- R&D has the highest KPI rate at 45%, but only 1% of awards are given to this department.
-- Training effectiveness varies on KPI achievement.
-- Employees with 1-10 years of service achieve KPIs at 30%-40%.
-- Employees aged 27-37 perform best on KPIs.
-- Bachelor's degree holders achieve 65% KPI performance, while master's holders achieve only 29%.
+- Only 36% of employees achieve KPIs above 80%, indicating a concerning level of performance among staff.
+- There is no correlation between award wins and employees meeting KPIs; notably, employees who do not meet KPIs can still win awards. For instance, while the R&D department has the highest KPI achievement rate at 45%, it only receives 1% of the awards.
+- A significant finding is that employees attending training for the first time see a marked improvement, with half of them passing their KPIs. This success rate increases with additional training sessions.
+- KPI achievement is significantly higher among employees with bachelor's degrees, who reach 65%, compared to just 29% for master's degree holders. This disparity may reflect an imbalance in the educational backgrounds of hired staff.
 
 #### Employee Ratings Last Year
-- Average employee rating is 3.35; 18% rated low (1-2 stars), particularly in Sales and Marketing.
+- Average employee rating is 3.35. 18% employees rated lowest at 1 to 2 stars, particularly in Sales and Marketing,suggesting potential issues in these areas that may need to be addressed to improve employee satisfaction and performance.
 
 #### Recruitment Channels
-- Over 50% of hires come from "other" channels; only 1.8% from referrals.
-- Education levels are balanced across channels.
+- There is an imbalance in recruitment sources, with over 50% of hires coming from "other" channels (such as conferences and job posting sites), while employee referrals account for only 1.8%.
+- The recruitment team has successfully hired employees with a diverse range of educational backgrounds across each department.
 
 ---
 
 ### Recommendation
 
-#### Enhance Gender Diversity
-- Ensure that interview panels include members of different genders to minimize bias and provide a more balanced perspective.
+#### Employee Diversity
+- **Targeted Recruitment:** Focus on attracting more female candidates in Sales and Marketing to balance gender representation.
+- **Diversity Training:** Implement training programs that promote awareness and support for diversity across all departments.
 
-#### Strengthen Performance Management
-- Implement performance improvement plans.
-- Align award criteria with KPI achievement.
-- Re-evaluate award distribution practices.
-- Promote effective training programs.
-- Provide ongoing training for long-tenured staff.
-- Develop support programs for younger and older employees.
-- Investigate performance factors and offer role-specific training.
+#### KPI Performance
+- **Link Awards to Performance:** Revise the award system to ensure that it reflects actual KPI achievements, motivating employees to meet their goals.
+- **Increase Training Access:** Expand training opportunities, especially for those new to the company, to improve KPI achievement rates.
+- **Implement Performance Reviews:** Regular performance reviews can help track employee progress and address any concerns promptly.
+- **Support for Underperformers:** Provide tailored support and coaching for employees struggling to meet KPIs, focusing on their development.
 
-#### Address Employee Satisfaction
-- Conduct surveys to gather feedback and improve job satisfaction.
+#### Employee Satisfaction
+- **Conduct In-Depth Surveys:** Gather feedback from departments with low ratings (e.g., Sales and Marketing) to pinpoint specific issues and develop targeted improvement plans.
+- **Recognition Beyond KPIs:** Create a recognition program that values contributions outside of KPI metrics, fostering a positive work environment.
 
-#### Optimize Recruitment Processes
-- Optimize sourcing strategies and enhance the referral program.
+#### Recruitment Channels
+- **Enhance Employee Referral Program:** Increase incentives for employees to refer candidates, aiming to diversify recruitment sources beyond "other" channels.
+- **Analyze Recruitment Effectiveness:** Regularly assess the success of different recruitment channels to ensure they align with diversity and quality hiring goals.
 
----
 
 ## Conclusion
 
-- This project offers a detailed analysis of employee's diversity, performance, satisfaction, and recruitment sources.
-
-- Key strategies for improvement include:
-  - **Promoting Gender Diversity:** Foster a more inclusive workplace.
-  - **Strengthening Performance Management:** Align awards with KPI achievement and provide ongoing training.
-  - **Improving Employee Satisfaction:** Gather feedback through surveys to enhance job satisfaction.
-  - **Optimizing Recruitment Processes:** Enhance sourcing strategies and referral programs.
-
-- Implementing these strategies will enhance workforce effectiveness and drive long-term success.
+In summary, the organization faces challenges related to employee performance, particularly in Sales and Marketing, where a notable percentage of employees rated their experience low. Additionally, the recruitment process shows an overreliance on non-traditional hiring channels, with a minimal contribution from referrals. However, the recruitment team has effectively ensured a diverse range of educational backgrounds among hires across departments. Addressing the low performance in specific areas and enhancing referral strategies could lead to improved employee satisfaction and overall organizational effectiveness.
 
 ## License
 
