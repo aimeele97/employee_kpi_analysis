@@ -60,15 +60,14 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 ### Key Findings
 
 #### Employee Diversity
-- The department that has the most employees is Sales and Marketing, which contribute 31% total company's workforce. The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
-- Males dominate each department, with females mainly in Procurement, HR, and Operations.
-- Average age varies by department, indicating demographic diversity.
+- The largest department is Sales and Marketing, which comprises 31% of the total workforce of 17,417 employees.
+- The average age of employees varies by department, ranging from 20 to 60 years, which highlights a significant demographic diversity within the organization.
 
 #### KPI Analysis
 - Only 36% of employees achieve KPIs above 80%, indicating a concerning level of performance among staff.
 - There is no correlation between award wins and employees meeting KPIs; notably, employees who do not meet KPIs can still win awards. For instance, while the R&D department has the highest KPI achievement rate at 45%, it only receives 1% of the awards.
-- A significant finding is that employees attending training for the first time see a marked improvement, with half of them passing their KPIs. This success rate increases with additional training sessions.
-- KPI achievement is significantly higher among employees with bachelor's degrees, who reach 65%, compared to just 29% for master's degree holders. This disparity may reflect an imbalance in the educational backgrounds of hired staff.
+- The employees that attending training for the first time see a marked improvement, with half of them passing their KPIs. This success rate increases with additional training sessions.
+- KPI achievement is significantly higher among employees with bachelor's degrees, reaching 65%, compared to only 29% for master's degree holders. This disparity suggests that the level of education may not be directly related to KPI achievement among employees.
 
 #### Employee Ratings Last Year
 - Average employee rating is 3.35. 18% employees rated lowest at 1 to 2 stars, particularly in Sales and Marketing,suggesting potential issues in these areas that may need to be addressed to improve employee satisfaction and performance.
