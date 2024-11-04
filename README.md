@@ -4,6 +4,8 @@
 
 This project addresses 4 main main areas: Employee diversity, KPI performance, employee ratings, and recruitment channels. It offers insights and actionable recommendations to assist the HR department in identifying key challenges and developing strategies to enhance KPI performance, boost employee ratings, and optimize recruitment processes.
 
+__Employee KPI Dashboard:__ [Go to Tableau](https://public.tableau.com/app/profile/aimee.le9707/viz/job_posting_17304343709050/Dashboard2)
+
 ## Data Source
 
 The data for this analysis is sourced from Kaggle: [Employee Performance Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/employees-performance-for-hr-analytics).
