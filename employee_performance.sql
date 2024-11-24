@@ -203,9 +203,8 @@ ORDER BY num_emp DESC;
 /*          KEY FINDINGS         */
 /* ============================= */
 
-/* 
 
-**1. Employee Diversity:**
+1. Employee Diversity:
    - **Workforce Distribution:** The company has a total of 17,417 employees across 9 departments, with the largest share (31%) working in Sales and Marketing.
    - **Gender Imbalance:** Males dominate in most departments, while females are more concentrated in Procurement, HR, and Operations.
    - **Age Diversity:** The company has a wide range of age groups, with employees ranging from 20 to 60 years old, reflecting strong demographic diversity across departments.
@@ -224,4 +223,3 @@ ORDER BY num_emp DESC;
    - **Balanced Education Levels:** Education levels are fairly consistent across the different recruitment channels for each department.
    - **Recruitment Source:** The majority of new hires come through online resources, while a very small percentage (1.8%) are recruited through referrals, suggesting an opportunity to increase referral-based recruitment and possibly leverage existing employees’ networks. 
 
-*/
