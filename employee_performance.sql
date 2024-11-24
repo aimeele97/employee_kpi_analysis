@@ -17,7 +17,7 @@ WHERE employee_id IN (
 )
 ORDER BY employee_id;
 
-/* 3. What steps are taken for data cleaning? */
+/* 3. Create a back-up file to remove duplicate and error row */
 SELECT *
 INTO dbo.employee_performance_backup
 FROM dbo.employee_performance;
@@ -204,21 +204,22 @@ ORDER BY num_emp DESC;
 /* ============================= */
 
 /* 
-Employee Diversity
-- The company has 17,417 employees across 9 departments; Sales and Marketing account for 31% of the workforce.
-- Males dominate each department, with females mainly in Procurement, HR, and Operations.
-- Average age varies by department, indicating demographic diversity.
-KPI Analysis
-- Only 36% of employees meet KPIs above 80%.
-- Employees who meet KPIs win more awards.
-- R&D has the highest KPI rate at 45%, but only 1% of awards are given to this department.
-- Training effectiveness varies on KPI achievement.
-- Employees with 1-10 years of service achieve KPIs at 30%-40%.
-- Employees aged 27-37 perform best on KPIs.
-- Bachelor's degree holders achieve 65% KPI performance, while master's holders achieve only 29%.
-Employee Ratings Last Year
-- Average employee rating is 3.35; 18% rated low (1-2 stars), particularly in Sales and Marketing.
-Recruitment Channels
-- Over 50% of hires come from "other" channels; only 1.8% from referrals.
-- Education levels are balanced across channels.
-*/
+1. Employee Diversity:
+
+Workforce Distribution: The company has a total of 17,417 employees across 9 departments, with the largest share (31%) working in Sales and Marketing.
+Gender Imbalance: Males dominate in most departments, while females are more concentrated in Procurement, HR, and Operations.
+Age Diversity: The company has a wide range of age groups, with employees ranging from 20 to 60 years old, reflecting strong demographic diversity across departments.
+2. KPI Performance:
+
+Overall KPI Achievement: Only 36% of employees consistently meet KPIs above 80%, indicating a gap in performance expectations across the workforce.
+R&D Performance vs. Rewards: Despite having the highest KPI achievement rate at 45%, R&D receives only 1% of the company’s total awards, suggesting a disconnect between KPI performance and recognition.
+Impact of Training on Performance: Over 40% of employees achieve their KPIs during their first training session, and this number increases with additional training, highlighting the importance of continued development for KPI success.
+Age and KPI Achievement: Employees in the 27-37 age range perform better than other age groups, achieving or exceeding their KPI targets more consistently.
+Education and KPI Performance: Bachelor's degree holders outperform others, achieving 65% of their KPI targets, while master's degree holders only meet 29%. This indicates that the level of education may influence KPI success rates.
+3. Employee Ratings:
+
+Overall Satisfaction: The company’s average employee rating was 3.35 last year. The lowest ratings (1-2 stars) were primarily from the Sales and Marketing department, where 18% of employees gave low scores, pointing to potential dissatisfaction in that area.
+4. Recruitment Channels:
+
+Balanced Education Levels: Education levels are fairly consistent across the different recruitment channels for each department.
+Recruitment Source: The majority of new hires come through online resources, while a very small percentage (1.8%) are recruited through referrals, suggesting an opportunity to increase referral-based recruitment and possibly leverage existing employees’ networks.*/
