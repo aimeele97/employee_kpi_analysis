@@ -205,13 +205,11 @@ ORDER BY num_emp DESC;
 
 /* 
 1. Employee Diversity:
-
 Workforce Composition: Sales and Marketing make up 31% of the total workforce of 17,417 employees across 9 departments.
 Gender Distribution: Males dominate most departments, while females are more prevalent in Procurement, HR, and Operations.
 Age Range: Employees range in age from 20 to 60, reflecting broad demographic diversity across the company.
 
 2. KPI Performance:
-
 KPI Achievement: Only 36% of employees meet KPIs above 80%, indicating a significant opportunity for improvement.
 R&D Performance vs. Rewards: While R&D has the highest KPI achievement at 45%, it receives only 1% of the company’s total awards, suggesting a misalignment between performance and recognition.
 Training Impact: More than 40% of employees meet their KPIs after their first training session, with performance improving further with additional training.
@@ -219,11 +217,10 @@ Age Group Performance: Employees aged 27-37 consistently perform better and meet
 Education and Performance: Bachelor's degree holders achieve 65% of their KPIs, while those with a master’s degree meet just 29% of their targets.
 
 3. Employee Satisfaction:
-
 Overall Rating: The company’s average employee rating was 3.35 last year. The Sales and Marketing department had the lowest ratings, with 18% of employees giving 1-2 star reviews, indicating dissatisfaction in that department.
 
 4. Recruitment Channels:
-
 Education Balance: Education levels are fairly evenly distributed across different recruitment channels for each department.
 Recruitment Source: The majority of new hires come from online resources, with only 1.8% recruited through referrals, suggesting an opportunity to increase the role of referrals in the recruitment process.
+
 */
