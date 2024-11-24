@@ -204,22 +204,24 @@ ORDER BY num_emp DESC;
 /* ============================= */
 
 /* 
-1. Employee Diversity:
 
-Workforce Distribution: The company has a total of 17,417 employees across 9 departments, with the largest share (31%) working in Sales and Marketing.
-Gender Imbalance: Males dominate in most departments, while females are more concentrated in Procurement, HR, and Operations.
-Age Diversity: The company has a wide range of age groups, with employees ranging from 20 to 60 years old, reflecting strong demographic diversity across departments.
-2. KPI Performance:
+**1. Employee Diversity:**
+   - **Workforce Distribution:** The company has a total of 17,417 employees across 9 departments, with the largest share (31%) working in Sales and Marketing.
+   - **Gender Imbalance:** Males dominate in most departments, while females are more concentrated in Procurement, HR, and Operations.
+   - **Age Diversity:** The company has a wide range of age groups, with employees ranging from 20 to 60 years old, reflecting strong demographic diversity across departments.
 
-Overall KPI Achievement: Only 36% of employees consistently meet KPIs above 80%, indicating a gap in performance expectations across the workforce.
-R&D Performance vs. Rewards: Despite having the highest KPI achievement rate at 45%, R&D receives only 1% of the company’s total awards, suggesting a disconnect between KPI performance and recognition.
-Impact of Training on Performance: Over 40% of employees achieve their KPIs during their first training session, and this number increases with additional training, highlighting the importance of continued development for KPI success.
-Age and KPI Achievement: Employees in the 27-37 age range perform better than other age groups, achieving or exceeding their KPI targets more consistently.
-Education and KPI Performance: Bachelor's degree holders outperform others, achieving 65% of their KPI targets, while master's degree holders only meet 29%. This indicates that the level of education may influence KPI success rates.
-3. Employee Ratings:
+**2. KPI Performance:**
+   - **Overall KPI Achievement:** Only 36% of employees consistently meet KPIs above 80%, indicating a gap in performance expectations across the workforce.
+   - **R&D Performance vs. Rewards:** Despite having the highest KPI achievement rate at 45%, R&D receives only 1% of the company’s total awards, suggesting a disconnect between KPI performance and recognition.
+   - **Impact of Training on Performance:** Over 40% of employees achieve their KPIs during their first training session, and this number increases with additional training, highlighting the importance of continued development for KPI success.
+   - **Age and KPI Achievement:** Employees in the 27-37 age range perform better than other age groups, achieving or exceeding their KPI targets more consistently.
+   - **Education and KPI Performance:** Bachelor's degree holders outperform others, achieving 65% of their KPI targets, while master's degree holders only meet 29%. This indicates that the level of education may influence KPI success rates.
 
-Overall Satisfaction: The company’s average employee rating was 3.35 last year. The lowest ratings (1-2 stars) were primarily from the Sales and Marketing department, where 18% of employees gave low scores, pointing to potential dissatisfaction in that area.
-4. Recruitment Channels:
+**3. Employee Ratings:**
+   - **Overall Satisfaction:** The company’s average employee rating was 3.35 last year. The lowest ratings (1-2 stars) were primarily from the Sales and Marketing department, where 18% of employees gave low scores, pointing to potential dissatisfaction in that area.
 
-Balanced Education Levels: Education levels are fairly consistent across the different recruitment channels for each department.
-Recruitment Source: The majority of new hires come through online resources, while a very small percentage (1.8%) are recruited through referrals, suggesting an opportunity to increase referral-based recruitment and possibly leverage existing employees’ networks.*/
+**4. Recruitment Channels:**
+   - **Balanced Education Levels:** Education levels are fairly consistent across the different recruitment channels for each department.
+   - **Recruitment Source:** The majority of new hires come through online resources, while a very small percentage (1.8%) are recruited through referrals, suggesting an opportunity to increase referral-based recruitment and possibly leverage existing employees’ networks. 
+
+*/
