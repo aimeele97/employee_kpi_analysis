@@ -14,7 +14,7 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 ### Data Cleaning
 1. What is the total number of rows and unique employees?
 2. How can we identify duplicate records?
-3. What steps are taken for data cleaning?
+3. What is the step to clean and manipulate data? Create a back-up file to remove duplicate and error row
 
 ### Employee Overview
 4. What is the employee distribution across departments?
