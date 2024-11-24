@@ -72,11 +72,11 @@ The data for this analysis is sourced from Kaggle: [Employee Performance Dataset
 - KPI achievement is significantly higher among employees with bachelor's degrees, reaching 65%, compared to only 29% for master's degree holders. This disparity suggests that the level of education may not be directly related to KPI achievement among employees.
 
 #### Employee Ratings Last Year
-- Average employee rating is 3.35. 18% employees rated lowest at 1 to 2 stars, particularly in Sales and Marketing,suggesting potential issues in these areas that may need to be addressed to improve employee satisfaction and performance.
+- The company’s average employee rating was 3.35 last year. The Sales and Marketing department had the lowest ratings, with 18% of employees giving 1-2 star reviews, indicating dissatisfaction in that department.
 
 #### Recruitment Channels
-- There is an imbalance in recruitment sources, with over 50% of hires coming from "other" channels (such as conferences and job posting sites), while employee referrals account for only 1.8%.
-- The recruitment team has successfully hired employees with a diverse range of educational backgrounds across each department.
+- Education levels are fairly evenly distributed across different recruitment channels for each department.
+- The majority of new hires come from online resources, with only 1.8% recruited through referrals, suggesting an opportunity to increase the role of referrals in the recruitment process.
 
 ---
 
